@@ -1,4 +1,14 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# 01 HTML, CSS, and Git: Code Refactor Home Work 
+
+*Link*
+
+https://michaeldviau.github.io/Homework-01-CodeRefactor/
+
+*ScreenShot*
+
+![image](https://user-images.githubusercontent.com/86207868/130341698-deae5bce-aa52-4b54-87aa-13c483cf3045.png)
+
+*Instruction:*
 
 ## Your Task
 
